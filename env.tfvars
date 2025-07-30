@@ -1,0 +1,7 @@
+environment = ""
+prometheus_workspace = ""
+log_group               = ""
+prometheus_endpoint     = ""
+namespace_observability = "opentelemetry"
+cluster_name = ""
+account_id = ""
