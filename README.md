@@ -1,3 +1,3 @@
 # Opentelemetry Observability
 
-<img width="839" height="548" alt="image" src="https://github.com/user-attachments/assets/438860c9-5846-4b94-8628-f8b3d963f837" />
+<img width="800" height="434" alt="image" src="https://github.com/user-attachments/assets/1ff7e8e9-cf07-41a5-a705-f8d1b0b2ceae" />
